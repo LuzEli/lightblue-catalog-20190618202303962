@@ -1,6 +1,8 @@
 package catalog;
 
 import java.util.List;
+
+import catalog.models.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.ResponseEntity;
